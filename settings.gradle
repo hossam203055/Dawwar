@@ -1,0 +1,2 @@
+rootProject.name='Dawwar'
+include ':app'
